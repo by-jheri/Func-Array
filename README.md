@@ -1,1 +1,1 @@
-# Func-Array
+For pratice use only
